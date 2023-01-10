@@ -105,7 +105,7 @@ VALUE: Bearer <ваш токен>
 
 ## Request examples/Примеры запросов
 
-**Full list of requests you can see by going to .../redoc/ of the running project
+**Full list of requests you can see by going to .../redoc/ of the running project**
 
-Полный список запросов можно посмотреть перейдя на .../redoc/
+**Полный список запросов можно посмотреть перейдя на .../redoc/
 развернутого проекта**
