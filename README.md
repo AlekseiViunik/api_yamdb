@@ -1,5 +1,4 @@
 # api_yamdb
-![Python version](https://img.shields.io/badge/python-3.7-yellow) ![Django version](https://img.shields.io/badge/django-2.2-orange)
 
 This is a group project. Team lead was [Aleksandr Usolcev](https://github.com/AleksandrUsolcev/api-yamdb) 
 
