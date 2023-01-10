@@ -36,7 +36,7 @@ Only authorized users can rate, add reviews and comments.
 
 ## Running project in dev-mode/Запуск проекта в dev-режиме
 
-Clone repository. Install and activate virtual environment
+Clone repository. Install and activate virtual environment./
 Клонировать репозиторий. Установить и активировать виртуальное окружение
 
 ```
@@ -49,15 +49,15 @@ $ python3 -m venv venv
 $ source venv/Scripts/activate 
 ``` 
 
-Install dependencies  from requirements.txt
-Установить зависимости из файла requirements.txt
+Install dependencies  from requirements.txt./
+Установить зависимости из файла requirements.txt.
 
 ```
 pip install -r requirements.txt
 ``` 
 
-Run migrations and run the project
-Выполнить миграции и запустить проект
+Run migrations and run the project./
+Выполнить миграции и запустить проект.
 
 ```
 python3 manage.py migrate
@@ -72,7 +72,7 @@ To do this you need to send POST request with name and e-mail on.../api/v1/auth/
 Для взаимодействия с API необходимо завести учетную запись пользователя,
 или суперпользователя и иметь персональный токен, для чего необходимо
 перейти по адресу .../api/v1/auth/signup/ и отправить POST запрос с
-именем и адресом электронной почты пользователя
+именем и адресом электронной почты пользователя.
 
 ```
 {
@@ -86,7 +86,7 @@ And you'll get the token.
 
 После успешной регистрации на указаный email придет секретный код, который
 необходимо скопировать в поле "confirmation_code" по адресу ...
-/api/v1/auth/token/ и получить персональный токен
+/api/v1/auth/token/ и получить персональный токен.
 
 ```
 {
@@ -95,8 +95,8 @@ And you'll get the token.
 }
 ``` 
 
-Pass the token in headers
-Далее передаем полученный токен в headers
+Pass the token in headers./
+Далее передаем полученный токен в headers.
 
 ```
 KEY: Authorization
