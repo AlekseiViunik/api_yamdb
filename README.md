@@ -37,7 +37,7 @@ Only authorized users can rate, add reviews and comments.
 ## Running project in dev-mode/Запуск проекта в dev-режиме
 
 Clone repository. Install and activate virtual environment./
-Клонировать репозиторий. Установить и активировать виртуальное окружение
+Клонировать репозиторий. Установить и активировать виртуальное окружение.
 
 ```
 # For Mac or Linux:
