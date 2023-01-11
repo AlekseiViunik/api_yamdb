@@ -39,11 +39,11 @@ Clone repository. Install and activate virtual environment./
 Клонировать репозиторий. Установить и активировать виртуальное окружение.
 
 ```
-# For Mac or Linux:
+- For Mac or Linux:
 $ python3 -m venv venv
 $ source venv/bin/activate
 
-# For Windows
+- For Windows
 $ python3 -m venv venv
 $ source venv/Scripts/activate 
 ``` 
